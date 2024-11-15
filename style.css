@@ -50,10 +50,15 @@
     background-color: beige;
     border: 0;
 }
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .reset{
-    
-    
-    background-color: white;
+    background-color: grey;
+    padding: 5px 5px;
+    width: 60px;
     
 }
 
